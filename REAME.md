@@ -1,0 +1,1 @@
+read a txt file using python
